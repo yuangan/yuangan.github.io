@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year CS Ph.D. student advised by Prof.Yi Yang. My research interests include 3D Computer Vision, Low-level Vision.
+I'm a third-year CS Ph.D. student advised by Prof.Yi Yang. My research interests include virtual human generation and 3D vision.
