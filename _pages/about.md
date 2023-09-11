@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year CS Ph.D. student advised by Prof.Yi Yang. My research interests include virtual human generation and 3D vision.
+I'm a third-year CS Ph.D. student advised by Prof.Yi Yang in ReLER, Zhejiang University. My research interests include virtual human generation and 3D vision.
