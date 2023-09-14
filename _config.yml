@@ -83,7 +83,7 @@ author:
   name             : "Yuan Gan"
   avatar           : "citations.jpg"
   bio              : "Zhejiang University"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e6tKXQEAAAAJ&hl=zh-CN"
