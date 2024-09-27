@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year CS Ph.D. student advised by Prof.Yi Yang in ReLER, Zhejiang University. My research interests include virtual human generation and 3D vision.
+I am a final-year Ph.D. student advised by Prof.Yi Yang in ReLER, Zhejiang University. My research interests include virtual human generation and privacy protection. I am looking for a post-doctor position. If you are interested in me, please contact: ganyuan@zju.edu.cn
 
 <br />
 
