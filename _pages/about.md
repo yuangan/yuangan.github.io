@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student advised by Prof.Yi Yang in ReLER, Zhejiang University. My research interests include virtual human generation and privacy protection. I am looking for a post-doctor position. If you are interested in me, please contact: ganyuan@zju.edu.cn
+I am a final-year Ph.D. student under the supervision of Prof. Yi Yang at the ReLER lab, Zhejiang University. My research focuses on virtual human generation and privacy protection. I am actively seeking a postdoctoral position. If interested, please feel free to contact me at: ganyuan@zju.edu.cn.
 
 <br />
 
