@@ -20,10 +20,8 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- Services
+Service
 ======= 
-Reviewer for CVPR, TCSVT, ToMM
--->
-
+Reviewer for CVPR, TVCG, TCSVT, ToMM, KBS
 
 <br />
