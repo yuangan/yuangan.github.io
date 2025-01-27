@@ -26,6 +26,6 @@ Publications
 
 Service
 ======= 
-Reviewer for CVPR, TVCG, TCSVT, ToMM, KBS
+Reviewer for CVPR, TVCG, TCSVT, TMM, ToMM, KBS
 
 <br />
