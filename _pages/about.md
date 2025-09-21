@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Computer Vision at Zhejiang University, where I'm fortunate to work with Prof. [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=zh-CN&oi=ao). My passion lies in developing the next generation of virtual humans and ensuring the security of the generated content. Before my PhD, I earned my Bachelor's and Master's degrees in Computer Science from Nanjing University. Now, as I'm wrapping up my doctorate, I'm eager to join a collaborative team as a postdoc and contribute to the development of human-centric AI.
+I'm a Project Assistant Professor in [Prof. Harada](https://www.mi.t.u-tokyo.ac.jp/harada/)'s Lab, RCAST at UTokyo. My passion lies in developing the next generation of virtual humans and ensuring the security of the generated content. Prior to this, I obtained my Ph.D. degree in Zhejiang University under the supervision of [Prof. Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=zh-CN&oi=ao).  I also received my Bachelor's and Master's degrees in Computer Science from Nanjing University.
 
 <br />
 
@@ -26,6 +26,6 @@ Publications
 
 Service
 ======= 
-Reviewer for CVPR, ICCV, IJCV, TVCG, TCSVT, TMM, ToMM, KBS
+Reviewer for TPAMI, CVPR, ICCV, IJCV, TVCG, TCSVT, TMM, ToMM, KBS
 
 <br />
